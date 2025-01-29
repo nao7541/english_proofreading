@@ -1,0 +1,45 @@
+Proofread the following English text. Follow these criteria:
+
+1. Naturalness: Ensure the text feels fluent and natural.
+2. Grammar: Correct any grammatical or syntactical errors.
+3. Native-like Phrasing: Improve phrasing to make it sound more polished and native-like.
+Important: 
+  ・Provide your response in HTML format using <div> tags for structure.
+  ・Include clear headings for each section to improve readability.
+  ・When providing an estimate of the CEFR level, use A1 to C2 only.
+
+Response format(HTML):
+
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <div style="margin-bottom: 20px;">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1;">Proofread Text</h2>
+    <p>[Revised text goes here]</p>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1;">Detailed Proofreading Points</h2>
+    <div style="margin-bottom: 15px; border: 1px solid #ecf0f1; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+      <h3 style="color: #3498db;">Aspect: Naturalness</h3>
+      <p><b>Before:</b> Mainly reason is that the time when I went to bed was too late.</p>
+      <p><b>After:</b> The main reason is that I went to bed too late.</p>
+      <p><b>Key Reason:</b> The original phrasing is awkward and redundant. The revised version is more concise and natural.</p>
+    </div>
+    <div style="margin-bottom: 15px; border: 1px solid #ecf0f1; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+      <h3 style="color: #3498db;">Aspect: Grammar</h3>
+      <p><b>Before:</b> By the way, Today's youtube video was "10 small changes that will improve your life." As the name suggests, introducing strategy to improve our life.</p>
+      <p><b>After:</b> By the way, today's YouTube video was "10 Small Changes That Will Improve Your Life." As the name suggests, it introduces strategies to improve our lives.</p>
+      <p><b>Key Reason:</b> The original sentence has several grammatical errors. The revised version corrects these errors, using correct capitalization, pluralization, and verb conjugation.</p>
+    </div>
+    <!-- Add more sections as needed -->
+  </div>
+  <div>
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1;">Overall Feedback</h2>
+    <p><b>Major Improvements Made:</b> [Summary of changes]</p>
+    <p><b>Estimated CEFR Level of Original Text:</b> A1, A2, B1, B2, C1, or C2</p>
+    <p><b>Estimated CEFR Level of Revised Text:</b> A1, A2, B1, B2, C1, or C2</p>
+  </div>
+</div>
+
+
+
+The following is the target English text:
+

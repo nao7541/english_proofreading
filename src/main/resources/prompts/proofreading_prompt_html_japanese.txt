@@ -1,0 +1,56 @@
+Proofread the following English text. Follow these criteria:
+
+1. Naturalness: Ensure the text feels fluent and natural.
+2. Grammar: Correct any grammatical or syntactical errors.
+3. Native-like Phrasing: Improve phrasing to make it sound more polished and native-like.
+Important: 
+  ・Provide your response in HTML format using <div> tags for structure.
+  ・Include clear headings for each section to improve readability.
+  ・When providing an estimate of the CEFR level, use A1 to C2 only.
+
+Response format(HTML):
+
+<div style="font-family: Arial, sans-serif; line-height: 1.4; margin: 0; padding: 0;">
+  <!-- Proofread Text Section -->
+  <div style="margin-bottom: 10px;">
+    <h2 style="color: #2c3e50; font-size: 18px; margin-bottom: 5px; border-bottom: 1px solid #ecf0f1;">Proofread Text</h2>
+    <p style="margin: 0;">The current prompt is as follows, but the output merely uses the Japanese explanations in their original format, which doesn't serve as an effective explanation.</p>
+  </div>
+
+  <!-- Detailed Proofreading Points Section -->
+  <div style="margin-bottom: 10px;">
+    <h2 style="color: #2c3e50; font-size: 18px; margin-bottom: 5px; border-bottom: 1px solid #ecf0f1;">Detailed Proofreading Points</h2>
+
+    <!-- Example Point 1 -->
+    <div style="border: 1px solid #ecf0f1; border-radius: 5px; padding: 10px; background-color: #f9f9f9; margin-bottom: 8px;">
+      <h3 style="color: #3498db; font-size: 16px; margin-bottom: 5px;">Aspect: Naturalness</h3>
+      <p style="margin: 3px 0;"><b>Before:</b> The current prompt is like this, but the output only uses the Japanese explanations as they are, which are written within the format.</p>
+      <p style="margin: 3px 0;"><b>After:</b> The current prompt is as follows, but the output merely uses the Japanese explanations in their original format, which doesn't serve as an effective explanation.</p>
+      <p style="margin: 3px 0;"><b>Key Reason:</b> The original phrasing was awkward and repetitive. The revised version improves clarity and flow by avoiding redundancy and restructuring the sentence.</p>
+      <span style="color: #7f8c8d;">(日本語補足: 元の文章は冗長で不自然でした。修正後は簡潔で明確な表現に変更しました。)</span>
+    </div>
+
+    <!-- Example Point 2 -->
+    <div style="border: 1px solid #ecf0f1; border-radius: 5px; padding: 10px; background-color: #f9f9f9; margin-bottom: 8px;">
+      <h3 style="color: #3498db; font-size: 16px; margin-bottom: 5px;">Aspect: Grammar</h3>
+      <p style="margin: 3px 0;"><b>Before:</b> This doesn't serve as an explanation, so please revise it.</p>
+      <p style="margin: 3px 0;"><b>After:</b> This doesn't effectively serve as an explanation, so please revise it.</p>
+      <p style="margin: 3px 0;"><b>Key Reason:</b> The sentence was missing a modifier to clarify how it "doesn't serve as an explanation." The addition of "effectively" strengthens the meaning and provides more precise information.</p>
+      <span style="color: #7f8c8d;">(日本語補足: 修正前は不十分な表現でした。「effectively」を追加することで、意味が明確になり、より強調された表現になりました。)</span>
+    </div>
+  </div>
+
+  <!-- Overall Feedback Section -->
+  <div>
+    <h2 style="color: #2c3e50; font-size: 18px; margin-bottom: 5px; border-bottom: 1px solid #ecf0f1;">Overall Feedback</h2>
+    <p style="margin: 3px 0;"><b>Major Improvements Made:</b> Enhanced naturalness, clarified and corrected minor grammatical errors, and restructured sentences for better flow.</p>
+    <p style="margin: 3px 0;"><b>Estimated CEFR Level of Original Text:</b> B1</p>
+    <p style="margin: 3px 0;"><b>Estimated CEFR Level of Revised Text:</b> B2</p>
+    <span style="color: #7f8c8d;">(日本語補足: 修正前はB1レベル、修正後はB2レベルに向上しました。文法と自然さが改善されました。)</span>
+  </div>
+</div>
+
+
+
+The following is the target English text:
+

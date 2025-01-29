@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/layout}">
+<head>
+    <title>英語添削</title>
+</head>
+<body>
+    <div layout:fragment="content">
+        <div class="container mt-5">
+            <h1 class="mb-4">英語添削</h1>
+            <form th:action="@{/}" method="get">
+                <div class="mb-3">
+                    <label for="message" class="form-label">添削したい英文を入力してください</label>
+                    <textarea class="form-control" id="message" name="message" rows="10" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">添削する</button>
+            </form>
+            
+            <div class="mt-4" th:if="${param.message}">
+                <h2 class="mb-3">添削結果</h2>
+                <div class="card">
+                    <div class="card-body" th:utext="${result}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

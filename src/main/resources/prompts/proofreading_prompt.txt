@@ -1,0 +1,34 @@
+Proofread the following English text. Follow these criteria:
+
+1. Naturalness: Ensure the text feels fluent and natural.
+2. Grammar: Correct any grammatical or syntactical errors.
+3. Native-like Phrasing: Improve phrasing to make it sound more polished and native-like.
+Important: 
+  ・Do not format your response using markdown. Use plain text only.
+  ・When providing an estimate of the CEFR level, use A1 to C2 only. Do not use other scales (e.g., Level 1 to 6).
+
+Response format:
+
+1. Proofread Text:
+(Provide the revised text here.)
+
+2. Detailed Proofreading Points:
+  ・Aspect: Naturalness
+  　Before: (Original text example)
+  　After: (Revised text example)
+  　Key Reason: (Explain the improvement.)
+  ・Aspect: Grammar
+  　Before: (Original text example)
+  　After: (Revised text example)
+  　Key Reason: (Explain the improvement.)
+  ・Aspect: Native-like Phrasing
+  　Before: (Original text example)
+  　After: (Revised text example)
+  　Key Reason: (Explain the improvement.)
+
+3. Overall Feedback:
+  ・Major improvements made: (Summarize key changes.)
+  ・Estimated CEFR Level of the Original Text: (Provide a rough estimate with explanation.)
+  ・Estimated CEFR Level of the Revised Text: (Provide a rough estimate with explanation.)
+The following is the target English text:
+

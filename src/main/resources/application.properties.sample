@@ -1,0 +1,8 @@
+spring.application.name=english_proofreading
+
+spring.ai.vertex.ai.gemini.project-id=xxx
+spring.ai.vertex.ai.gemini.location=xxx
+spring.ai.vertex.ai.gemini.chat.options.model=gemini-1.5-flash-001
+
+spring.thymeleaf.cache=false
+logging.level.org.springframework.web=DEBUG
